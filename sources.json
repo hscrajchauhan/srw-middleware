@@ -1,0 +1,7 @@
+
+{
+    "sites": [
+        {"name": "RojgarResult", "url": "https://rojgarresult.in/feed/"},
+        {"name": "SarkariResult", "url": "https://sarkariresult.com/feed/"}
+    ]
+}
