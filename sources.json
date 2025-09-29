@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "id": "rojgarresult-rss",
+      "type": "rss",
+      "name": "RojgarResult",
+      "url": "https://rojgarresult.in/feed/"
+    },
+    {
+      "id": "sarkariresult-rss",
+      "type": "rss",
+      "name": "SarkariResult",
+      "url": "https://sarkariresult.com/feed/"
+    },
+    {
+      "id": "rrb-notices",
+      "type": "page",
+      "name": "RRB Notices",
+      "url": "https://www.rrbcdg.gov.in/Notice",
+      "selector": ".notice-list a"
+    },
+    {
+      "id": "ssc-pdf",
+      "type": "pdf",
+      "name": "SSC Notifications PDF",
+      "url": "https://ssc.nic.in/notifications/recent.pdf"
+    },
+    {
+      "id": "statepsc-api",
+      "type": "api",
+      "name": "State PSC JSON",
+      "url": "https://some-psc.gov.in/api/notifications"
+    }
+  ]
+}
