@@ -12,7 +12,7 @@ const cheerio = require('cheerio');
 const pdf = require('pdf-parse');
 const cron = require('node-cron');
 const OpenAI = require('openai');
-const pLimit = require('p-limit');
+const pLimit = require("p-limit").default;
 
 dotenv.config();
 
