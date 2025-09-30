@@ -1,0 +1,43 @@
+{
+  "sources": [
+    {
+      "id": "rojgarresult-rss",
+      "type": "rss",
+      "name": "RojgarResult",
+      "url": "https://rojgarresult.in/feed/"
+    },
+    {
+      "id": "sarkariresult-rss",
+      "type": "rss",
+      "name": "SarkariResult",
+      "url": "https://sarkariresult.com/feed/"
+    },
+    {
+      "id": "employmentnews-rss",
+      "type": "rss",
+      "name": "Employment News",
+      "url": "https://www.employmentnews.gov.in/rss/EN_RSS.xml"
+    },
+    {
+      "id": "rrb-notices",
+      "type": "page",
+      "name": "RRB Notices",
+      "url": "https://indianrailways.gov.in/",
+      "selector": "a"
+    },
+    {
+      "id": "ssc-notices",
+      "type": "page",
+      "name": "SSC Notices",
+      "url": "https://ssc.nic.in/",
+      "selector": "a"
+    },
+    {
+      "id": "upsc-notices",
+      "type": "page",
+      "name": "UPSC Notices",
+      "url": "https://upsc.gov.in/",
+      "selector": "a"
+    }
+  ]
+}
